@@ -1,8 +1,10 @@
 # 舒宣凱
 ## 關於我
-- 技能1:遊戲
-- 技能2:**python程式**
+- 遊戲
+- **python程式**
 - 腦電波(一丁點)
+*萬物皆虛，萬事皆允*
+[點我](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 **粗體**
 *斜體*
