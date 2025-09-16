@@ -11,5 +11,6 @@
 
 | 學習經歷 | 工作經驗 |
 | ------- | ------- |
-|高職畢業|高醫工讀研究助理|
+|高職畢業|高醫工讀研究助理|  
+
 '''python raw = mne.io.read_raw_edf(edf_file_path, preload=True, verbose=False)'''
