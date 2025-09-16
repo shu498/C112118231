@@ -17,7 +17,10 @@
 | ------- | ------- |
 |高職畢業|高醫工讀研究助理|  
 
-```raw = mne.io.read_raw_edf(edf_file_path, preload=True, verbose=False)```
+```python
+raw = mne.io.read_raw_edf(edf_file_path, preload=True, verbose=False)
+```
+
 >程式碼之所以有價值， 是因為它能被閱讀、理解和修改。 版本控制使這一切成為可能。
 >> | 任務名稱 | 狀態 | 負責人 | 截止日期 |
 >> |---|:---:|:---:|---:|
