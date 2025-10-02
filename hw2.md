@@ -54,7 +54,7 @@ graph LR
 ```mermaid
 gantt
   dateFormat  YYYY-MM-DD
-  title 專案 甘特（起始日 2025-10-01）
+  title 專案甘特圖（起始日 2025-10-01）
   section 任務
   研擬計畫       :a1, 2025-10-01, 1d
   任務分配       :a2, 2025-10-02, 4d
